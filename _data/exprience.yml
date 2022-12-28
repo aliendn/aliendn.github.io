@@ -1,0 +1,34 @@
+- title: Developing iranian asanbar website
+  company: Iranian asanbar Company, IR
+  tech: django , bootstrap, docker, nginx, celery, redis ,postgres, mtv architecture
+  date: 2021, June
+  image: /images/d.png
+  desc: Main point of project was a company website
+
+- title: SEO & Translating over 50 articles
+  company: Tarah sabz company in Gtech news website, IR
+  tech: wordpress , office word
+  date: 2021, july
+  image: /images/web_developer.png
+  desc: Main point was helping client to improve their wordpress websites with SEO handling
+
+- title: Restaurant Management application 
+  company: Mapsa Company, IR
+  tech: pure python , design patterns, mvc architecture
+  date: 2021, October
+  image: /images/d1.png
+  desc: Main point was an application which to manage Restaurant business managing 
+
+- title: Shopping website
+  company: Mapsa Company, IR
+  tech: django , bootstrap, docker, nginx, celery, redis ,postgres, mongo, drf, fastapi, mtv architecture
+  date: 2021, December
+  image: /images/d2.png
+  desc: Main point was Creating shopping website like amazon from scratch known as mak store
+
+- title: Developing SSO service
+  company: IDmelon - Vancouver, BC
+  tech: django , bootstrap, docker, nginx, ninja, backgroundtask, postgres, Cloudflare, react, mongoDB, gcloud, SAML & OIDC protocol,microservice engineering
+  date: 2022, February
+  image: /images/sso.png
+  desc: Main point was Login with oidc & SAML protocol without using any password

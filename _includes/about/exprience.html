@@ -1,11 +1,30 @@
-<div class="col mt-4">
-    <div class="card" style="width: 18rem;">
-        <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="card-link">Card link</a>
-        <a href="#" class="card-link">Another link</a>
+{% for item in site.data.exprience %}
+<div class="col-xs-12 col-sm-6 col-md-4">
+    <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+        <div class="mainflip">
+            <div class="frontside">
+                <div class="card">
+                    <div class="card-body text-center">
+                        <p><img class=" img-fluid"
+                                src="{{ item.image }}"
+                                alt="{{ item.title }}"></p>
+                        <h5 class="card-title">Title : {{ item.title }}</h5>
+                        <p class="card-text">{{ item.desc }}</p>
+                        <a class="card-link">Date : {{ item.date }}</a>
+                    </div>
+                </div>
+            </div>
+            <div class="backside">
+                <div class="card">
+                    <div class="card-body text-center mt-4">
+                        <h5 class="card-title">Title : {{ item.title }}</h5>
+                        <p class="card-text">{{ item.desc }}</p>
+                        <p class="card-text"><strong style="color: red;">Company/Client :</strong> {{ item.company }}</p>
+                        <p class="card-text"><strong style="color: red;">Technology :</strong> {{ item.tech }}</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
+{% endfor %}

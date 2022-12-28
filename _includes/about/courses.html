@@ -1,0 +1,12 @@
+{% for item in site.data.courses %}
+<div class="col mt-4">
+    <div class="card text-white bg-{{ item.color }}" style="max-width: 20rem;">
+        <div class="card-body">
+            <h4 class="card-title">{{ item.title }}</h4>
+            <p class="card-text">{{ item.name }}</p>
+            <a class="card-link">{{ item.date }}</a>
+        </div>
+            
+    </div>
+</div>
+{% endfor %}
