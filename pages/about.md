@@ -5,10 +5,14 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+# **{{ site.author.name }} resume**
+
+<img class="about_img_personal" src="/images/personal.png" />
+
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Junior programmer front-end & back-end Work experience in the field of startups and cooperation and high experience in team work in designing corporate and store sites using Django framework and API using fastapi & drf and the latest Developed tools fluent in English (experience of two years of living and studying in Hungary) as well as fluent in Linux and Python by taking the best in-person and online courses at boot camps and schools and offline training sites. I am excited to learn more and more.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
@@ -17,4 +21,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <div class="row">
 {% include about/timeline.html %}
+</div>
+
+<div class="row">
+{% include about/exprience.html %}
 </div>

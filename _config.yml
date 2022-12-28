@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Code_Fun
+title               : Code Digger
 description         : >-
                       Keep coding & dreaming ;)
 baseurl             : "/"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -24,22 +24,22 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Amir Dehghan
   image             : images/developer.png
-  behance           : your_username
+  # behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  # facebook          : your_username
+  github            : https://github.com/aliendn
 # gitlab            : your_username
-# instagram         : your_username
+  instagram         : https://www.instagram.com/pydjango.ir/
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  # linkedin          : your_username
+  # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+  # twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
@@ -58,7 +58,7 @@ collections:
 
 ### Disqus ###
 disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+  shortname: Code Digger                    # Your website Shortname on disqus
 
 
 ### Analytics ###
@@ -70,12 +70,12 @@ analytics:
 
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
-buymeacoffee:
-  enabled: false
-  username: your_username
-  color: "#007bff"
-  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
-  description: "Support me on Buy me a coffee!"
+# buymeacoffee:
+#   enabled: false
+#   username: your_username
+#   color: "#007bff"
+#   message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
+#   description: "Support me on Buy me a coffee!"
 
 
 ### Defaults for collections ###

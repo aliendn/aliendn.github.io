@@ -1,17 +1,32 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Django Backend Developer
+  name: Iranian asanbar Company, IR
+  from: 2021, June
+  to: 2021, September
+  description: fullstack developer for Iranian asanbar karaj company.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Python Developer
+  name: Mapsa Company, IR
+  from: 2021, October
+  to: 2021, December
+  description: developing python software with high performance design patterns & mvc architecture.
+
+- title: drf & django backend developer
+  name: Mapsa Company, IR
+  from: 2021, December
+  to: 2022, January
+  description: developing full stack web application with django in phase 1 & developing api with django rest framework in phase 2.
+
+- title: Fast Api
+  name: Herfeyi sho Start up, IR
+  from: 2021, January
+  to: 2022, February
+  description: developing full stack web application with django in phase 1 & developing api with django rest framework in phase 2.
+
+- title: Full Stack Developer
+  name: IDmelon - Vancouver, BC
+  from: 2022, February
+  to: Present
+  description: full stack developer created sso service from scratch and worked with saml, oidc, oatuh protocols,..
+                completed documents and sso page in the current panel.
+                project is with python and js api's.
+                working with Okta, pingidentity, aws , gcloud, cloudflare , duo, ... applications.

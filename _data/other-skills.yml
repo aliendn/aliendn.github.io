@@ -1,7 +1,47 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
-
-- name: Adobe Illustrator
+- name: PostgresDB
   percentage: 90
+  color: primary
+
+- name: MongoDB
+  percentage: 90
+  color: warning
+
+- name: Linux OS
+  percentage: 100
+  color: secondary
+
+- name: MySQL
+  percentage: 100
   color: success
+
+- name: Redis
+  percentage: 100
+  color: danger
+
+- name: Celery
+  percentage: 100
+  color: success
+
+- name: Docker & docker-compose & swarm
+  percentage: 90
+  color: primary
+
+- name: Nginx
+  percentage: 70
+  color: warning
+
+- name: Github
+  percentage: 100
+  color: secondary
+
+- name: RabbitMQ
+  percentage: 80
+  color: success
+
+- name: git CI/CD
+  percentage: 80
+  color: danger
+
+- name: English Language
+  percentage: 100
+  color: primary

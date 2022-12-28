@@ -1,11 +1,52 @@
 - name: HTML5/CSS3
+  percentage: 100
+  color: danger
+
+- name: Python
+  percentage: 100
+  color: secondary
+
+- name: django(DRF, channels, ...)
+  percentage: 100
+  color: info
+
+- name: Graphql api
+  percentage: 80
+  color: warning
+
+- name: Fastapi
+  percentage: 90
+  color: success
+
+- name: javascript
+  percentage: 80
+  color: secondary
+
+- name: Bootstrap
+  percentage: 100
+  color: danger
+
+- name: wordpress
+  percentage: 50
+  color: secondary
+
+- name: unitest & tdd
+  percentage: 80
+  color: warning
+
+- name: Gunicorn DRF
+  percentage: 70
+  color: success
+
+- name: test and code coverage
   percentage: 90
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
+- name: react js
+  percentage: 60
+  color: info  
 
-- name: Python
-  percentage: 70
-  color: secondary
+- name: Node.js
+  percentage: 40
+  color:  success
+  
