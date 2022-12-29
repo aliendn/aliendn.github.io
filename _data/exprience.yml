@@ -28,7 +28,7 @@
 
 - title: Developing SSO service
   company: IDmelon - Vancouver, BC
-  tech: django , bootstrap, docker, nginx, ninja, backgroundtask, postgres, Cloudflare, react, mongoDB, gcloud, SAML & OIDC protocol,microservice engineering
+  tech: django , bootstrap, docker, nginx, ninja, backgroundtask, postgres, Cloudflare, react, mongoDB, gcloud, SAML & OIDC protocol, microservice engineering
   date: 2022, February
   image: /images/sso.png
   desc: Main point was Login with oidc & SAML protocol without using any password

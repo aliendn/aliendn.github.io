@@ -39,12 +39,16 @@ Junior programmer front-end & back-end Work experience in the field of startups 
 * * *
 
 <br/>
+<h5 class="section-title h1">Main Projects</h5>
 
-<section id="team" class="pb-5">
-    <div class="container">
-        <h5 class="section-title h1">Main Projects</h5>
-        <div class="row">
+<section>
+  <div class="container py-5">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="main-timeline">
           {% include about/exprience.html %}
         </div>
+        </div>
     </div>
+  </div>
 </section>
