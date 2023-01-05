@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Code Digger
+title               : Green Code
 description         : >-
                       Keep coding & dreaming ;)
 baseurl             : "/"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -24,13 +24,14 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Amir Dehghan
   image             : images/developer.png
+  email             : username@domain.com
+  github            : https://github.com/aliendn
+  instagram         : https://www.instagram.com/pydjango.ir/
+  youtube           : /channel/UCX5ABeAPAfsjYnfZpjaFLlQ
   # behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
   # facebook          : your_username
-  github            : https://github.com/aliendn
 # gitlab            : your_username
-  instagram         : https://www.instagram.com/pydjango.ir/
 # kaggle            : your_username
   # linkedin          : your_username
   # medium            : your_username
@@ -41,7 +42,6 @@ author:
 # twitch            : your_username
   # twitter           : your_username
 # vimeo             : your_username
-# youtube           : your_channel_name
 # keybase           : your_username
 
 
@@ -58,7 +58,7 @@ collections:
 
 ### Disqus ###
 disqus:
-  shortname: Code Digger                    # Your website Shortname on disqus
+  shortname: Green Code         # Your website Shortname on disqus
 
 
 ### Analytics ###
